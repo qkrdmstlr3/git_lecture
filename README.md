@@ -1,2 +1,2 @@
 # git_lecture
-BEONGJUN
+201602000 박병준
